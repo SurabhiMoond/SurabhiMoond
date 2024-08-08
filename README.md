@@ -42,7 +42,7 @@ I'm continuously expanding my skill set and currently diving deeper into:
 </p>
 
 ### Design & Prototyping
-- **Figma**: Creating user-friendly designs and prototypes.<a href="https://www.figma.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+- **Figma**: Creating user-friendly designs and prototypes.<a href="https://www.figma.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
 
 ### AI & Learning
 - **AI Prompt Learning**: Understanding how to leverage AI tools for enhanced productivity and creativity.
