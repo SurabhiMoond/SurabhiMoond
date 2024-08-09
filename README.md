@@ -59,9 +59,9 @@ I'm open to job opportunities and collaborations. Feel free to reach out to me t
 
 ## 💻 GitHub Stats
 
-<div ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhimoond&show_icons=true&locale=en&layout=compact&theme=default" alt="surabhimoond" />
-<img  src="https://github-readme-stats.vercel.app/api?username=surabhimoond&show_icons=true&locale=en&theme=default" alt="surabhimoond"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surabhimoond&theme=default" alt="surabhimoond" /></div>
+<div ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhimoond&show_icons=true&locale=en&layout=compact&theme=merko" alt="surabhimoond" />
+<img  src="https://github-readme-stats.vercel.app/api?username=surabhimoond&show_icons=true&locale=en&theme=merko" alt="surabhimoond"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surabhimoond&theme=merko" alt="surabhimoond" /></div>
 
 ---
 
