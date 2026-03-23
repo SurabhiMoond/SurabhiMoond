@@ -55,7 +55,6 @@ React, UI/UX Design CSS Frameworks (Tailwind, Bootstrap), Full Stack Development
 I'm open to job opportunities and collaborations. Feel free to reach out to me through:
 
 - **Email**: [surabhi24jrk@gmail.com](mailto:surabhi24jrk@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/surabhi12/](https://www.linkedin.com/in/surabhi12/)
 
 ## 💻 GitHub Stats
 
